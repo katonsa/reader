@@ -29,7 +29,7 @@ need to fix:
 Request:
 
 ```
-http://localhost:3000/https://github.com/katonsa/katon.dev
+https://reader-sandy-phi.vercel.app/https:/github.com/katonsa/katon.dev
 ```
 
 Response:
